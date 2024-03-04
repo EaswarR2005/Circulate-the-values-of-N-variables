@@ -18,14 +18,15 @@ print the output.
 ### Step 6: 
 end the program.
 ## Program:
-#circulate n variables
-#Developed by: EASWAR R
-#Register number: 212223230053
+#circulate n variables   
+#Developed by: EASWAR R     
+#Register number: 212223230053    
 
-def circulate():
-    list1=eval(input())
-    n=int(input())
+def circulate():    
+    list1=eval(input())    
+    n=int(input())    
     print("After circulating the values are:",list1[n:]+list1[:n])
 ## Output:
+![circulate n variables  output](https://github.com/EaswarR2005/Circulate-the-values-of-N-variables/assets/146931525/fda8e7a7-24b0-41fc-8431-f637ad490a79)
 
 ## Result:
